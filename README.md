@@ -1,6 +1,6 @@
 <div align="center">
 
-# Software Developer | BackEnd Developer
+# BackEnd Developer
 ### My craft is backend engineering, not programming in a particular language. I have built production systems across Java, TypeScript, C#, and PHP, but I consider languages mere instruments. My true value lies in analytical reasoning, architectural judgment, and the ability to translate complex requirements into reliable, maintainable software.
 
 
