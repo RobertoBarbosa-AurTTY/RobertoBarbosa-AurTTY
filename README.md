@@ -1,7 +1,7 @@
 <div align="center">
 
 # Software Developer | BackEnd Developer
-### My core expertise lies in backend development using Java with Spring Boot, TypeScript with NestJS, and C# with .NET, with a strong emphasis on designing scalable and maintainable systems.
+### My craft is backend engineering, not programming in a particular language. I have built production systems across Java, TypeScript, C#, and PHP, but I consider languages mere instruments. My true value lies in analytical reasoning, architectural judgment, and the ability to translate complex requirements into reliable, maintainable software.
 
 
 
