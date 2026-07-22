@@ -1,7 +1,9 @@
 <div align="center">
 
 # Software Developer | BackEnd Developer
-###  work with the Java ecosystem (Spring Boot), TypeScript (NestJS), and C# (.NET), building scalable backend applications.
+### My core expertise lies in backend development using Java with Spring Boot, TypeScript with NestJS, and C# with .NET, with a strong emphasis on designing scalable and maintainable systems.
+
+
 
 <img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 120px; object-fit: cover; border-radius: 8px;"/>
 
