@@ -212,4 +212,4 @@ export class JobProcessorService {
 
 **⭐ BuildFlow System — in use by local businesses** · **⚙️ Distributed systems** · **🔐 Identity & security** · **💳 Fintech & payments**
 
-</div>,
+</div>
