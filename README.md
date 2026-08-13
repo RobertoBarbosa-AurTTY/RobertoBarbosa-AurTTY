@@ -201,10 +201,8 @@ export class JobProcessorService {
 ---
 
 ## 📫 Let's Connect
-
-- **GitHub:** [your-username](https://github.com/your-username)
-- **LinkedIn:** [your-username](https://linkedin.com/in/your-username)
-- **Email:** [you@example.com](mailto:you@example.com)
+- **LinkedIn:** [Roberto Carlos](https://linkedin.com/in/robertobarbosa-rc)
+- **Email:** [robertobarbosa.osg@gmail.com](robertobarbosa.osg@gmail.com)
 
 ---
 
