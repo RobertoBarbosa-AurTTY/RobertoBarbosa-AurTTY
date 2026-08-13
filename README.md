@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='160' viewBox='0 0 1200 160'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%230d1521'/><stop offset='50%25' stop-color='%231c2b3a'/><stop offset='100%25' stop-color='%232b3a67'/></linearGradient></defs><rect width='1200' height='160' fill='url(%23g)'/><circle cx='1050' cy='40' r='120' fill='white' opacity='0.04'/><circle cx='150' cy='130' r='160' fill='white' opacity='0.04'/><circle cx='600' cy='80' r='220' fill='white' opacity='0.02'/></svg>" alt="Banner" width="100%"/>
-
 # Backend Engineer
 
 ### Designing scalable, reliable systems — across domains.
