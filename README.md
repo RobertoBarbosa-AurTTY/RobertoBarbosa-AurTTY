@@ -178,8 +178,6 @@ export class PickingOptimizerService {
 
 "Não construo apenas software. Construo pontes entre a operação que vivi e a tecnologia que domino."
 
-⭐ BuildFlow System - Em operação
-🚚 Especialista em logística operacional
-📦 WMS | ERP | TOTVS
+⭐ Backend Carajás - Em atuação | Desenvolvedor freelanche
 
 </div>
