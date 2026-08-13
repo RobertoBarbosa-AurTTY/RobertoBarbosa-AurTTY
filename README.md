@@ -1,6 +1,6 @@
 <div align="center">
   
-# Backend Engineer
+# Backend Developer
 
 ### Designing scalable, reliable systems — across domains.
 
@@ -20,7 +20,7 @@ I design and build production-grade backend systems in **Java** and **TypeScript
 
 ## 👋 About Me
 
-I'm a **backend engineer** focused on building systems that are **scalable, secure, and resilient** — regardless of the business domain. My portfolio spans **fintech and payments, identity and access control, inventory and order management, and logistics automation**.
+I'm a **backend developer** focused on building systems that are **scalable, secure, and resilient** — regardless of the business domain. My portfolio spans **fintech and payments, identity and access control, inventory and order management, and logistics automation**.
 
 I have hands-on operational experience inside large-scale Distribution Centers, which taught me to solve problems from the business side, not just the code side. That background sharpened skills I now apply broadly: **designing pragmatic solutions, communicating with non-technical stakeholders, and shipping software that actually gets used**.
 
