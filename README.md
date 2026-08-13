@@ -170,7 +170,6 @@ export class PickingOptimizerService {
 
 🎓 Formação Acadêmica
 
-· Ciência da Computação - (Concluído)
 · Engenharia de Software - (Cursando)
 
 ---
