@@ -4,7 +4,7 @@
 
 ### Designing scalable, reliable systems — across domains.
 
-I design and build production-grade backend systems in **Java** and **TypeScript**. Languages are instruments; my value lies in analytical reasoning, architectural judgment, and turning complex business requirements into software that is reliable, secure, and maintainable.
+I build and maintain backend applications and services in **Java** and **TypeScript**, focused on writing clean, well-tested, and maintainable code that solves real business problems.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -20,11 +20,11 @@ I design and build production-grade backend systems in **Java** and **TypeScript
 
 ## 👋 About Me
 
-I'm a **backend developer** focused on building systems that are **scalable, secure, and resilient** — regardless of the business domain. My portfolio spans **fintech and payments, identity and access control, inventory and order management, and logistics automation**.
+I'm a **backend developer** always learning and improving. My portfolio spans **fintech and payments, identity and access control, inventory and order management, and logistics automation**, with projects covering REST APIs, async processing, caching, and system integrations.
 
-I have hands-on operational experience inside large-scale Distribution Centers, which taught me to solve problems from the business side, not just the code side. That background sharpened skills I now apply broadly: **designing pragmatic solutions, communicating with non-technical stakeholders, and shipping software that actually gets used**.
+I have hands-on operational experience inside large-scale Distribution Centers, which taught me to understand problems from the business side and communicate well with non-technical people. That background shapes how I work today: **pragmatic solutions, clean code, and software that actually gets used**.
 
-Today I build **integration APIs**, **distributed services**, and **event-driven systems** in **Java and TypeScript** — and I'm the founder of **BuildFlow System**, a platform unifying business management and logistics that is currently in production with real users.
+I work daily with **integration APIs**, **backend services**, and **event-driven flows** in **Java and TypeScript** — and I built **BuildFlow System**, a solo project that integrates business management and logistics, which I license to local businesses currently using it in production.
 
 ---
 
@@ -32,13 +32,13 @@ Today I build **integration APIs**, **distributed services**, and **event-driven
 
 ### Backend
 
-| Technology | Level | Applications |
-|------------|-------|--------------|
-| **Java 17+** | Advanced | REST APIs, microservices, integrations |
-| **Spring Boot** | Advanced | Spring Data, Security, MVC, integrations |
-| **TypeScript** | Advanced | Typed APIs, robust integrations |
-| **Node.js** | Advanced | High-performance APIs, microservices |
-| **NestJS** | Intermediate | Modular architecture, integrations |
+| Technology | Applications |
+|------------|--------------|
+| **Java 17+** | REST APIs, microservices, integrations |
+| **Spring Boot** | Spring Data, Security, MVC, integrations |
+| **TypeScript** | Typed APIs, robust integrations |
+| **Node.js** | High-performance APIs, microservices |
+| **NestJS** | Modular architecture, integrations |
 
 ### Systems & Architecture
 
@@ -126,7 +126,7 @@ ORM / Frameworks:
 
 | Project | Highlights |
 |---------|-----------|
-| [**ERP_BuildFlow_Demo**](https://github.com/your-username/ERP_BuildFlow_Demo) | Founder & Tech Lead — WMS, ERP, inventory and billing platform in production |
+| [**ERP_BuildFlow_Demo**](https://github.com/your-username/ERP_BuildFlow_Demo) | Solo project — WMS, ERP, inventory and billing platform, licensed to and used by local businesses |
 | [**subscription-management-service**](https://github.com/your-username/subscription-management-service) | Plans, billing cycles, renewals and subscription lifecycle |
 
 ---
@@ -210,8 +210,8 @@ export class JobProcessorService {
 
 <div align="center">
 
-> "I don't build software for a single problem. I build systems that solve problems — at any scale, in any domain."
+> "I don't just write code. I build software that solves real problems."
 
-**⚙️ Distributed systems** · **🔐 Identity & security** · **💳 Fintech & payments**
+**⭐ BuildFlow System — in use by local businesses** · **⚙️ Distributed systems** · **🔐 Identity & security** · **💳 Fintech & payments**
 
-</div>
+</div>,
