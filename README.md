@@ -1,183 +1,224 @@
 <div align="center">
 
-# BackEnd Developer
-### My craft is backend engineering, not programming in a particular language. I have built production systems across Java, TypeScript, C#, and PHP, but I consider languages mere instruments. My true value lies in analytical reasoning, architectural judgment, and the ability to translate complex requirements into reliable, maintainable software.
+<img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='160' viewBox='0 0 1200 160'><defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%230d1521'/><stop offset='50%25' stop-color='%231c2b3a'/><stop offset='100%25' stop-color='%232b3a67'/></linearGradient></defs><rect width='1200' height='160' fill='url(%23g)'/><circle cx='1050' cy='40' r='120' fill='white' opacity='0.04'/><circle cx='150' cy='130' r='160' fill='white' opacity='0.04'/><circle cx='600' cy='80' r='220' fill='white' opacity='0.02'/></svg>" alt="Banner" width="100%"/>
 
+# Backend Engineer
 
+### Designing scalable, reliable systems — across domains.
 
-<img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 120px; object-fit: cover; border-radius: 8px;"/>
+I design and build production-grade backend systems in **Java** and **TypeScript**. Languages are instruments; my value lies in analytical reasoning, architectural judgment, and turning complex business requirements into software that is reliable, secure, and maintainable.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TOTVS](https://img.shields.io/badge/TOTVS-003366?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Construindo pontes entre operação logística e tecnologia**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
 
 ---
 
-## 🎯 Sobre Mim
+## 👋 About Me
 
-**Desenvolvedor de Software e Especialista em Logística** com ampla experiência em operações de grandes Centros de Distribuição.
+I'm a **backend engineer** focused on building systems that are **scalable, secure, and resilient** — regardless of the business domain. My portfolio spans **fintech and payments, identity and access control, inventory and order management, and logistics automation**.
 
-Minha carreira foi construída entre a **operação e a tecnologia**. Antes de desenvolver soluções, vivi na prática os desafios da armazenagem, inventário, separação, expedição e gestão logística de ponta a ponta. Essa experiência me permite enxergar problemas além do código e construir soluções alinhadas à realidade do negócio.
+I have hands-on operational experience inside large-scale Distribution Centers, which taught me to solve problems from the business side, not just the code side. That background sharpened skills I now apply broadly: **designing pragmatic solutions, communicating with non-technical stakeholders, and shipping software that actually gets used**.
 
-Atuo no desenvolvimento de **APIs de integração com sistemas TOTVS**, conectando ERPs (Protheus/RM) a soluções de WMS, TMS e automação logística. Trabalho diariamente com backend em **Java e TypeScript**, construindo pontes eficientes entre o mundo TOTVS e outras plataformas.
-
-Minha estratégia para entregar excelência é sustentada por uma base acadêmica única: **formado em Ciência da Computação** e atualmente curso **Engenharia da Produção**. Combinação que me permite dominar tanto a engenharia de software quanto a otimização de processos.
-
-**Sou especialista em WMS e ERP** e fundador do **BuildFlow System**, uma plataforma própria que integra gestão empresarial e logística em um único ecossistema, atualmente em operação e gerando resultados reais para seus usuários.
+Today I build **integration APIs**, **distributed services**, and **event-driven systems** in **Java and TypeScript** — and I'm the founder of **BuildFlow System**, a platform unifying business management and logistics that is currently in production with real users.
 
 ---
 
-## 🛠 Stack Técnica
+## 🛠️ Tech Stack
 
-### **Backend Principal**
+### Backend
 
-| Tecnologia | Nível | Aplicações |
-|------------|-------|-------------|
-| **Java 17+** | Avançado | APIs REST, integrações TOTVS, microsserviços |
-| **Spring Boot** | Avançado | Spring Data, Security, MVC, integrações |
-| **TypeScript** | Avançado | APIs tipadas, integrações robustas |
-| **Node.js** | Avançado | APIs performáticas, microservices |
-| **NestJS** | Intermediário | Arquitetura modular, integrações |
+| Technology | Level | Applications |
+|------------|-------|--------------|
+| **Java 17+** | Advanced | REST APIs, microservices, integrations |
+| **Spring Boot** | Advanced | Spring Data, Security, MVC, integrations |
+| **TypeScript** | Advanced | Typed APIs, robust integrations |
+| **Node.js** | Advanced | High-performance APIs, microservices |
+| **NestJS** | Intermediate | Modular architecture, integrations |
 
-### **Integrações & ERPs**
+### Systems & Architecture
 
 ```yaml
-TOTVS Ecossistema:
-  - TOTVS Protheus (integrações via REST/AdvPL)
-  - TOTVS RM (API de integração)
-  - Conexão com WMS e TMS
-  - Automação logística
+Distributed Systems:
+  - Event-driven architecture
+  - Message queues and async processing
+  - Caching strategies (cache-aside, TTL, eviction)
+  - Rate limiting and API protection
 
-Sistemas de Gestão:
-  - WMS (Warehouse Management)
-  - ERP (Enterprise Resource Planning)
-  - TMS (Transport Management)
+Resilience:
+  - Idempotency and retry with backoff
+  - Transaction control and consistency
+  - Job scheduling and delayed execution
 ```
 
-Banco de Dados & ORM
+### Identity, Security & Payments
+
+```yaml
+Identity & Access:
+  - Authentication and authorization
+  - API key management
+  - Permissions and scopes
+
+Payments & Fintech:
+  - Payment processing and validation
+  - Double-entry ledgers
+  - Fraud detection
+  - Digital wallets and banking APIs
+```
+
+### Databases & ORM
 
 ```yaml
 SQL:
-  - PostgreSQL (principal)
+  - PostgreSQL (primary)
   - MySQL / MariaDB
   - Query optimization
   - Stored procedures
 
-ORM/Frameworks:
+ORM / Frameworks:
   - Spring Data JPA / Hibernate
   - Prisma ORM
   - TypeORM
 ```
 
-Ferramentas & DevOps
+### Tools & DevOps
 
-· Controle de versão: Git, GitHub Flow
-· Testes: JUnit, Mockito, Jest
-· Containers: Docker, Docker Compose
-· APIs: RESTful, Webhooks, Event-driven
-· Monitoramento: Logging, Actuator, PM2
-
----
-
-📁 Projetos em Destaque
-
-BuildFlow System (Fundador & Tech Lead)
-
-Java • Spring Boot • TypeScript • NestJS • PostgreSQL
-
-· Plataforma completa que integra gestão empresarial e logística em um único ecossistema
-· Módulos: WMS, ERP, estoque, faturamento, fiscal
-· APIs de integração com TOTVS Protheus e RM
-· Atualmente em operação com usuários reais
-
-API de Integração TOTVS Protheus → WMS
-
-Java • Spring Boot • REST APIs • AdvPL
-
-· Bridge entre ERP Protheus e soluções de WMS
-· Sincronização bidirecional de: produtos, estoque, pedidos, notas fiscais
-· Tratamento de filas e retentativas para alta disponibilidade
-· Redução de 70% no tempo de processamento de pedidos
-
-Middleware para Automação Logística
-
-TypeScript • Node.js • Express • PostgreSQL
-
-· Central de roteirização de separação e expedição
-· Integração com coletores RF e impressoras de etiquetas
-· Relatórios de performance operacional em tempo real
-· Processamento de 5k+ pedidos/hora
+- **Version control:** Git, GitHub Flow
+- **Testing:** JUnit, Mockito, Jest
+- **Containers:** Docker, Docker Compose
+- **APIs:** RESTful, Webhooks, Event-driven
+- **Monitoring:** Logging, Actuator, PM2
 
 ---
 
-💻 Código com Qualidade
+## 🚀 Featured Projects
+
+### Fintech & Payments
+
+| Project | Highlights |
+|---------|-----------|
+| [**idempotent-payment-api**](https://github.com/your-username/idempotent-payment-api) | Idempotency keys to prevent duplicate charges, atomic transaction control |
+| [**event-driven-payment-system**](https://github.com/your-username/event-driven-payment-system) | Async messaging for decoupled services, reliable delivery and retries |
+| [**financial-ledger**](https://github.com/your-username/financial-ledger) | Double-entry ledger tracking transactions and account balances |
+| [**fraud-detection-processor**](https://github.com/your-username/fraud-detection-processor) | Detects suspicious financial transactions in real time |
+
+### Distributed Systems & Infrastructure
+
+| Project | Highlights |
+|---------|-----------|
+| [**url-shortener**](https://github.com/your-username/url-shortener) | Caching for high-read throughput, click analytics, rate limiting |
+| [**distributed-cache-service**](https://github.com/your-username/distributed-cache-service) | Cache-aside with eviction policies, horizontal scalability |
+| [**job-processing-system**](https://github.com/your-username/job-processing-system) | Async queues with retries and backoff, scheduling, idempotent processing |
+| [**rate-limit-service**](https://github.com/your-username/rate-limit-service) | Protects APIs from excessive traffic |
+
+### Identity & Access Control
+
+| Project | Highlights |
+|---------|-----------|
+| [**identity-service**](https://github.com/your-username/identity-service) | Authentication and authorization for backend applications |
+| [**api-key-management**](https://github.com/your-username/api-key-management) | API keys with permissions, auth and rate limiting |
+
+### Products & Platforms
+
+| Project | Highlights |
+|---------|-----------|
+| [**ERP_BuildFlow_Demo**](https://github.com/your-username/ERP_BuildFlow_Demo) | Founder & Tech Lead — WMS, ERP, inventory and billing platform in production |
+| [**subscription-management-service**](https://github.com/your-username/subscription-management-service) | Plans, billing cycles, renewals and subscription lifecycle |
+
+---
+
+## 💻 Code Quality
 
 ```java
-// Exemplo: Integração com TOTVS Protheus
+// Example: idempotent payment processing
 
-@RestController
-@RequestMapping("/api/totvs/integration")
-@RequiredArgsConstructor
-public class TotvsIntegrationController {
-    
-    private final TotvsClient totvsClient;
-    private final WmsService wmsService;
-    
-    @PostMapping("/sync/orders")
-    public ResponseEntity<SyncResult> syncOrders(
-        @RequestBody SyncRequest request
-    ) {
-        // Busca pedidos no Protheus via API
-        List<Order> orders = totvsClient.fetchOrders(request.getLastSync());
-        
-        // Transforma e envia para WMS
-        SyncResult result = wmsService.processOrders(orders);
-        
-        return ResponseEntity.ok(result);
+@Service
+public class PaymentService {
+
+    @Transactional
+    public PaymentResult process(ProcessPaymentRequest request) {
+        if (paymentRepository.existsByIdempotencyKey(request.getIdempotencyKey())) {
+            return PaymentResult.replay();
+        }
+
+        Payment payment = paymentRepository.save(
+            Payment.pending(request)
+        );
+
+        try {
+            gateway.charge(payment);
+            payment.confirm();
+        } catch (GatewayException e) {
+            payment.fail();
+            throw new PaymentRetryableException(e);
+        }
+
+        return PaymentResult.success(payment);
     }
 }
 ```
 
 ```typescript
-// Exemplo: Middleware logístico com NestJS
+// Example: distributed job processing with retries
 
 @Injectable()
-export class PickingOptimizerService {
-  
-  async optimizePickingRoute(orders: Order[]): Promise<OptimizedRoute> {
-    // Algoritmo baseado em experiência real de CD
-    const zones = this.groupByZone(orders);
-    const priority = this.calculatePriority(zones);
-    const route = this.generateOptimalPath(priority);
-    
-    return {
-      estimatedTime: route.duration,
-      sequence: route.steps,
-      efficiency: this.calculateEfficiency(route)
-    };
+export class JobProcessorService {
+
+  async processJob(job: Job): Promise<JobResult> {
+    const attempts = job.metadata.attempts ?? 0;
+    const maxAttempts = this.config.getMaxRetries(job.type);
+
+    try {
+      const result = await this.handlers.execute(job);
+      return await this.jobStore.complete(job.id, result);
+    } catch (error) {
+      if (attempts >= maxAttempts) {
+        await this.jobStore.fail(job.id, error);
+        return JobResult.failed();
+      }
+
+      await this.jobQueue.scheduleRetry(job, {
+        attempt: attempts + 1,
+        delay: this.backoff.delay(attempts),
+      });
+
+      return JobResult.retrying();
+    }
   }
 }
 ```
 
 ---
 
-🎓 Formação Acadêmica
+## 🎓 Education
 
-- Engenharia de Software - (Cursando)
+- **B.Sc. Software Engineering** — in progress
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub:** [your-username](https://github.com/your-username)
+- **LinkedIn:** [your-username](https://linkedin.com/in/your-username)
+- **Email:** [you@example.com](mailto:you@example.com)
 
 ---
 
 <div align="center">
 
-"Não construo apenas software. Construo pontes entre a operação que vivi e a tecnologia que domino."
+> "I don't build software for a single problem. I build systems that solve problems — at any scale, in any domain."
 
-⭐ Backend Carajás - Em atuação | Desenvolvedor freelanche
+**⚙️ Distributed systems** · **🔐 Identity & security** · **💳 Fintech & payments**
 
 </div>
