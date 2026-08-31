@@ -197,10 +197,7 @@ export class JobProcessorService {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBarbosa-AurTTY&layout=compact&theme=dracula&bg_color=1a1b27&hide_border=true)](https://github.com/RobertoBarbosa-AurTTY)
-
-[![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertoBarbosa-AurTTY&show_icons=true&theme=dracula&bg_color=1a1b27&hide_border=true)](https://github.com/RobertoBarbosa-AurTTY)
+AurTTY&show_icons=true&theme=dracula&bg_color=1a1b27&hide_border=true)](https://github.com/RobertoBarbosa-AurTTY)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobertoBarbosa-AurTTY&theme=dracula&background=1a1b27&hide_border=true)](https://github.com/RobertoBarbosa-AurTTY)
 
