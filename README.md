@@ -197,7 +197,6 @@ export class JobProcessorService {
 ## 📊 GitHub Stats
 
 <div align="center">
-AurTTY&show_icons=true&theme=dracula&bg_color=1a1b27&hide_border=true)](https://github.com/RobertoBarbosa-AurTTY)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobertoBarbosa-AurTTY&theme=dracula&background=1a1b27&hide_border=true)](https://github.com/RobertoBarbosa-AurTTY)
 
