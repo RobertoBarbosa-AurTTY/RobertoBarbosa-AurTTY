@@ -2,7 +2,7 @@
 
 # Hi, I'm Roberto Carlos 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3178C6&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Developer+with+AI;Backend+TypeScript+%40+Caraj%C3%A1s+Home+Center;TypeScript+%E2%80%A2+Java+%E2%80%A2+Python;AI-assisted+engineering+with+Claude+Code;Open-source+contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3178C6&center=true&vCenter=true&width=620&lines=Full-Stack+Software+Developer+with+AI;Backend+TypeScript+%40+Caraj%C3%A1s+Home+Center;TypeScript+%E2%80%A2+Java+%E2%80%A2+Python;Front-end+with+React+and+Flutter;AI-assisted+engineering+with+Claude+Code;Open-source+contributor)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertobarbosa-rc)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://robertobarbosa-rc.netlify.app/)
@@ -14,14 +14,16 @@
 
 ## 🧑‍💻 About me
 
-I'm a **full-stack software developer** who builds with **AI as part of the engineering workflow**. Today I work as a **backend TypeScript developer at [Carajás Home Center](https://www.carajas.com.br/)**, one of the largest home-improvement retailers in Northeast Brazil, where I build and maintain the services that connect the company's ERP, e-commerce and logistics.
+I'm a **full-stack software developer** (backend in TypeScript, Java and Python; front-end with **React** and **Flutter**) who builds with **AI as part of the engineering workflow**. Today I work as a **backend TypeScript developer at [Carajás Home Center](https://www.carajas.com.br/)**, one of the largest home-improvement retailers in Northeast Brazil, where I build and maintain the services that connect the company's ERP, e-commerce and logistics.
 
 ```ts
 const roberto = {
   role: "Full-Stack Software Developer with AI",
   currently: "Backend TypeScript @ Carajás Home Center",
   location: "Maceió - AL, Brazil 🇧🇷",
-  languages: ["TypeScript", "Java", "Python"],
+  languages: ["TypeScript", "Java", "Python", "Dart"],
+  backend: ["Node.js", "Bun", "Express"],
+  frontend: ["React", "Flutter"],
   focus: ["integration APIs", "scheduled jobs & data pipelines", "observability", "AI-assisted development"],
   aiTools: ["Claude Code", "opencode", "MCP", "custom agents & skills"],
   openSource: "bug fixes and new features in community projects",
@@ -82,7 +84,13 @@ I contribute **bug fixes and new features** to projects I use every day.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Front-end & mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Backend**
 
