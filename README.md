@@ -68,8 +68,9 @@ I treat **AI as part of the engineering toolchain**: I work daily with **Claude 
 
 | Project | Description |
 |:--|:--|
-| [**PhoenixOS-WSL**](https://github.com/RobertoBarbosa-AurTTY/PhonixOS-WSL) | Arch Linux distribution for WSL2 built for AI-first development: Claude Code / opencode preconfigured, agent memory in Obsidian, and a terminal dashboard that surfaces production errors (Dozzle) and slow endpoints (Grafana). <br/><sub>Bash · Python · Arch Linux</sub> |
-| [**BuildFlow System**](https://github.com/RobertoBarbosa-AurTTY/ERP_BuildFlow_Demo) | Business-management and logistics ERP running in production for local businesses. <br/><sub>Full-stack web</sub> |
+| [**PhoenixOS-WSL**](https://github.com/RobertoBarbosa-AurTTY/PhoenixOS-WSL) | Arch Linux distribution for WSL2 built for AI-first development: Claude Code / opencode preconfigured, agent memory in Obsidian, and a terminal dashboard that surfaces production errors (Dozzle) and slow endpoints (Grafana). <br/><sub>Bash · Python · Arch Linux</sub> |
+| [**BuildFlow ERP**](https://github.com/RobertoBarbosa-AurTTY/ERP_BuildFlow_Demo) | Serverless ERP running in production for local businesses: inventory with warehouse addressing, POS with atomic stock reservation, NF-e XML import, receivables, cash flow and role-based access. Offline-first PWA with CI and API baseline tests. <br/><sub>Node.js · Netlify Functions · MongoDB Atlas · JWT</sub> |
+| [**freebsd-bspwm**](https://github.com/RobertoBarbosa-AurTTY/freebsd-bspwm-aurtty) | Reproducible FreeBSD 14/15 post-install that turns a clean system into a bspwm workstation for development, networking and security, with databases in jails and rollback-safe updates. <br/><sub>POSIX sh · FreeBSD · GPL-3.0</sub> |
 
 ---
 
