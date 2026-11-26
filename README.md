@@ -74,6 +74,19 @@ I treat **AI as part of the engineering toolchain**: I work daily with **Claude 
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RobertoBarbosa-AurTTY&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoBarbosa-AurTTY&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RobertoBarbosa-AurTTY&theme=transparent&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
 ### Skills
 
 | Area | Technologies |
